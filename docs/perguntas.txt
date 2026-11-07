@@ -1,0 +1,5 @@
+1. Quais são as três etapas do ETL e o que acontece em cada uma? Como IBM e AWS diferenciam ETL de ELT?
+2. Como ler um CSV em Python com csv.DictReader e por que a documentação pede newline='' ao abrir o arquivo?
+3. Que tipos de validação e limpeza as fontes citam para a etapa de transformação, e o que a documentação do módulo csv oferece (por exemplo, Dialect.strict, Sniffer) ou não oferece para detectar CSV ruim?
+4. Segundo a documentação do PostgreSQL, quando usar INSERT e quando usar COPY, e quais opções do COPY se aplicam a arquivos CSV (HEADER, DELIMITER, ON_ERROR)?
+5. Qual é a diferença entre carga completa, inicial e incremental segundo IBM e AWS? Monte um roteiro de estudos curto usando só estas fontes, indicando o que elas não cobrem.
